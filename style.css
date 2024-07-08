@@ -1,0 +1,75 @@
+*{
+    padding: 0%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.navbar-custom {
+    background-color: #191ccf; /* Custom background color */
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link {
+    color: #0292ca; /* Custom text color */
+  }
+  
+  .navbar-custom .nav-link:hover {
+    color: #0292ca; /* Custom hover color */
+  }
+  
+
+
+
+
+body{
+    display: flex;
+    background-color: black;  
+
+}
+
+
+
+.cards1{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+H1{
+  color: rgb(202, 230, 227);
+  text-align: center;
+}
+
+
+
+
+
+.cards1{
+     flex-wrap: wrap;
+     margin: auto;
+   padding: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#end-it{
+  margin-top: 100px;
+}
+
